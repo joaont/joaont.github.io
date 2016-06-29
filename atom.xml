@@ -4,7 +4,7 @@
     <title><![CDATA[Blog do Oscar]]></title>
     <link href="http://joaont.github.io/atom.xml" rel="self"/>
     <link href="http://joaont.github.io/"/>
-    <updated>2016-06-29T16:36:39-03:00</updated>
+    <updated>2016-06-29T16:46:25-03:00</updated>
     <id>http://joaont.github.io/</id>
     <author>
         <name><![CDATA[Oscar Paz La Torre]]></name>
@@ -12,5 +12,16 @@
     </author>
     <generator uri="http://octopress.org/">Octopress</generator>
 
+    
+    <entry>
+        <title type="html"><![CDATA[Gauss]]></title>
+        <link href="http://joaont.github.io/blog/2016/06/29/gauss/"/>
+        <updated>2016-06-29T16:45:03-03:00</updated>
+        <id>http://joaont.github.io/blog/2016/06/29/gauss</id>
+        <content type="html"><![CDATA[<p>Johann Carl Friedrich Gauss (ou Gauß)  pronúncia ajuda · ficheiro · ouvir (Braunschweig, 30 de abril de 1777 — Göttingen, 23 de fevereiro de 1855) foi um matemático, astrônomo e físico alemão que contribuiu muito em diversas áreas da ciência, dentre elas a teoria dos números, estatística, análise matemática, geometria diferencial, geodésia, geofísica, eletroestática, astronomia e óptica.</p>
+
+<p>Alguns se referem a ele como princeps mathematicorum (em latim: &ldquo;o príncipe da matemática&rdquo; ou &ldquo;o mais notável dos matemáticos&rdquo;) e um &ldquo;grande matemático desde a antiguidade&rdquo;. Gauss tinha uma marca influente em muitas áreas da matemática e da ciência e é um dos mais influentes na história da matemática.[3] Ele considerava a matemática como &ldquo;a rainha das ciências&rdquo;.</p>
+]]></content>
+    </entry>
     
 </feed>
