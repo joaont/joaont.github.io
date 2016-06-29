@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://joaont.github.io/sitemap.xml
